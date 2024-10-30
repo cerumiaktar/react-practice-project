@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "title": "10 Cozy Autumn Recipes to Warm Your Soul",
+        "cover": "../src/assets/img/1.png",
+        "author": "Emily Fields",
+        "author_img": "../src/assets/img/p1.png",
+        "published_date": "2023-10-01",
+        "reading_time": 5,
+        "hashtags": [
+            "#AutumnRecipes",
+            "#CozyFood",
+            "#FallCooking"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "The Best Fall Foliage Destinations to Visit",
+        "cover": "../src/assets/img/2.png",
+        "author": "John Stewart",
+        "author_img": "../src/assets/img/p2.png",
+        "published_date": "2023-10-05",
+        "reading_time": 7 ,
+        "hashtags": [
+            "#FallTravel",
+            "#Foliage",
+            "#AutumnAdventures"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "How to Transition Your Wardrobe for Fall",
+        "cover": "../src/assets/img/3.png",
+        "author": "Sarah Lee",
+        "author_img": "../src/assets/img/p3.png",
+        "published_date": "2023-09-25",
+        "reading_time": "6 min",
+        "hashtags": [
+            "#FallFashion",
+            "#AutumnStyle",
+            "#WardrobeTips"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Autumn Home Decor Ideas to Create a Cozy Space",
+        "cover": "../src/assets/img/4.png",
+        "author": "Jessica Brown",
+        "author_img": "../src/assets/img/p4.png",
+        "published_date": "2023-09-28",
+        "reading_time": 4,
+        "hashtags": [
+            "#HomeDecor",
+            "#FallDecor",
+            "#CozyHome"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Outdoor Activities to Embrace the Autumn Vibes",
+        "cover": "../src/assets/img/5.png",
+        "author": "Michael Adams",
+        "author_img": "../src/assets/img/p5.png",
+        "published_date": "2023-10-10",
+        "reading_time": 8,
+        "hashtags": [
+            "#OutdoorActivities",
+            "#FallFun",
+            "#AutumnVibes"
+        ]
+    }
+]
